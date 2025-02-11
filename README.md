@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 💫 About Me:
 🔭 I’m currently studying and still learn code<br>🤝 I’m looking for help with<br>🌱 I’m currently consistence
 
 
