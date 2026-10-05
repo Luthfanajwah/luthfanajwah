@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFB1B1"/>
 <div align="center">
   <samp>
     <b>
@@ -26,6 +27,14 @@
       </samp>
     </summary>
 <div align="center">
+
+<h2></h2>
+<h3 align="center">What u hve to think about me... </h3>
+♡ I'm a Beginner Programmer but also like explore some project related with AI or mechine learning and UI/UX
+♡ I'am a active students Informatics Engineering Student at Universitas Negeri Semarang
+♡ Seeking Collaborative Opportunities for eksploring project and developing my collaborative skill on teams
+♡ Also u can reach me on linkedin below!
+<h2></h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfanajwah&theme=nord_dark) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luthfanajwah&theme=tokyonight&hide_border=false)<br/>
@@ -57,4 +66,11 @@
   
 </div>
 </details>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB1B1&height=100&section=footer"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
