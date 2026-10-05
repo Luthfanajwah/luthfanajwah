@@ -32,7 +32,7 @@
 
 <h2></h2>
 <h3 align="center">What u hve to think about me... </h3>
-♡ I'm a Beginner Programmer but also like explore some project related with AI or mechine learning and UI/UX
+♡ I like coding stuff so there a reason im here and i also like explore some project related with AI or mechine learning and UI/UX. It's been a more 3yr i learn, build some project, and  collaboration with many teams to create some project
 ♡ I'am a active students Informatics Engineering Student at Universitas Negeri Semarang
 ♡ Seeking Collaborative Opportunities for eksploring project and developing my collaborative skill on teams
 ♡ Also u can reach me on linkedin below!
