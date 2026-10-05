@@ -64,9 +64,7 @@
 </details>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB1B1&height=100&section=footer"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github.com/luthfanajwah/luthfanajwah/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
